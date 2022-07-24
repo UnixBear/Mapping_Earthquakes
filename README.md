@@ -25,7 +25,7 @@ The rest are on jsons in the repository
 Retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data that is hosted on earthquake.usgs.gov. Using a Mapbox API, the Leaflet JS library through an API request and create interactivity for the earthquake data.
 
 ### Maps
-![Image](/images/Selection_001.jpg)
+![Image](/images/Selection_001.png)
 
 ### Theme Colors
 
