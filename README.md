@@ -17,7 +17,7 @@ Data:
 
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
-https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson 
 
 The rest are on jsons in the repository
 ## Results
